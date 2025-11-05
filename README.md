@@ -1,2 +1,14 @@
-# Medical-Inventory-Management
-The Medical Inventory Management System is a comprehensive Salesforce application designed to streamline and manage various operational aspects of the medical inventory. It can efficiently maintain supplier details, manage purchase orders, track product details and transactions, and monitor .
+# Medical Inventory Management
+Here You Will find all the document files related to the "Medical Inventory Management" Poject.
+
+Team ID : NM2025TMID01909
+
+Team Size : 3
+
+Team Leader : Benisha
+
+Team Member : Karthika
+
+Team Member : Mageshwari
+
+Demo Link : 
